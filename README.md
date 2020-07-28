@@ -1,2 +1,2 @@
 # arduino_traffic_light_code
-simple Application for Beginners
+Application for Arduino Learners
